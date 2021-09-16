@@ -1,3 +1,3 @@
 # NYC Airbnb Price Prediction
 
-## using data from airbnb open data
+Using data from [Airbnb Open Data](http://insideairbnb.com/get-the-data.html)
